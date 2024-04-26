@@ -1,0 +1,8 @@
+firstName,lastName,gender,age,mobNumber,address,type,left?,reasonForLeaving(ifLeft),room
+Sharon,Jenkins,F,24,+91xxxxxxxxxx,ABC-Street` D-Block` E` F,Travel Nurse,N,NA,-1
+Ben,Willis,M,28,+91xxxxxxxxxx,ABC-Street` D-Block` E` F,Compounder,N,NA,-1
+Matt,Stephens,M,23,+91xxxxxxxxxx,ABC-Street` D-Block` E` F,LPN,N,NA,-1
+Barry,Brickman,M,24,+91xxxxxxxxxx,ABC-Street` D-Block` E` F,Med-surgical,N,NA,-1
+Matthew,,M,26,+91xxxxxxxxx,ABC-Street` D-Block` E` F,ERN,N,NA,-1
+Frank,Stevens,M,26,+91xxxxxxxxxx,ABC-Street` D-Block` E` F,Oncology,N,NA,-1
+Мария,Петровна,F,29,+996555131313,Токтогула 8``Бишкек`Чуй`720012`Кыргызстан,Палатная,N,NA

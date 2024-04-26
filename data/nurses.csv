@@ -1,0 +1,7 @@
+nurseId,firstName,lastName,gender,age,mobNumber,address,type,room
+1,Sharon,Jenkins,F,24,+91xxxxxxxxxx,ABC-Street` D-Block` E` F``,Палатная,0
+2,Ben,Willis,M,28,+91xxxxxxxxxx,ABC-Street` D-Block` E` F``,Палатная,1
+3,Matt,Stephens,M,23,+91xxxxxxxxxx,ABC-Street` D-Block` E` F``,Операционная,123
+4,Barry,Brickman,M,24,+91xxxxxxxxxx,ABC-Street` D-Block` E` F``,Диетическая,0
+5,Matthew,,M,26,+91xxxxxxxxx,ABC-Street` D-Block` E` F``,Палатная,-1
+7,Мария,Петровна,F,29,+996555131313,Токтогула 8``Бишкек`Чуй`720012`Кыргызстан,Палатная,4380488
